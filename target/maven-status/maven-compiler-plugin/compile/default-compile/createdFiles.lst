@@ -1,0 +1,13 @@
+com\dosw\masterchef\service\RecipeService.class
+com\dosw\masterchef\exception\ResourceNotFoundException.class
+com\dosw\masterchef\exception\GlobalExceptionHandler.class
+com\dosw\masterchef\dto\RecipeRequestDTO.class
+com\dosw\masterchef\exception\GlobalExceptionHandler$ErrorResponse.class
+com\dosw\masterchef\model\Recipe$TipoChef.class
+com\dosw\masterchef\model\Recipe.class
+com\dosw\masterchef\service\SequenceGeneratorService.class
+com\dosw\masterchef\repository\RecipeRepository.class
+com\dosw\masterchef\controller\RecipeController.class
+com\dosw\masterchef\MasterchefCelebrityApiApplication.class
+com\dosw\masterchef\model\DatabaseSequence.class
+com\dosw\masterchef\model\Recipe$Chef.class
